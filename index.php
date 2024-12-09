@@ -14,6 +14,7 @@
     ?>
 
     <h1>
+        Sumando 2 numeros:
         <?php
             echo "Suma :".Sumar(3, 5);
         ?>
